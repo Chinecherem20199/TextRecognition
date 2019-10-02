@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "269709438641",
+    "firebase_url": "https://texttecognition.firebaseio.com",
+    "project_id": "texttecognition",
+    "storage_bucket": "texttecognition.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269709438641:android:767d52aa2304f1fc357c90",
+        "android_client_info": {
+          "package_name": "nigeriandailies.com.ng.textrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269709438641-ln1qq82bgqcpd1g50iqt1s6t37um21va.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nigeriandailies.com.ng.textrecognition",
+            "certificate_hash": "8ae905f7688e2dd695f59f6a8ca1b5fa39961a7e"
+          }
+        },
+        {
+          "client_id": "269709438641-4chevjse34b5e73881gvj1iajke67030.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhqD8Pf2j9yZWa3-qJgO-EtGX6wn2DLRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269709438641-4chevjse34b5e73881gvj1iajke67030.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
